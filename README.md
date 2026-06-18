@@ -77,10 +77,8 @@ class Sangeetha:
 ## 🤝 Connect With Me
 
 📧 sangeethajohnsemiyon@gmail.com
-💼 LinkedIn  
-https://www.linkedin.com/in/sangeetha-9805sj
-🐱 GitHub  
-https://github.com/Sangeethajohnsemiyon
+💼 LinkedIn  https://www.linkedin.com/in/sangeetha-9805sj
+🐱 GitHub  https://github.com/Sangeethajohnsemiyon
 ---
 
 ⭐ *"Learning, Building, and Growing Every Day."*
