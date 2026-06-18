@@ -4,7 +4,7 @@
 
 🎓 B.Tech Artificial Intelligence & Machine Learning, Chennai
 
-📍 Vellore, Tamil Nadu
+📍 Vellore, Tamil Nadu 
 
 ### About Me
 
