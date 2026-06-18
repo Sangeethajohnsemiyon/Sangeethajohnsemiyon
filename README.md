@@ -48,39 +48,66 @@ class Sangeetha:
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
 ### 📚 AI Study Planner App
 
-- AI-powered personalized study schedules
-- Android application
-- Task management and CRUD operations
-- Improved productivity through intelligent planning
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![Android](https://img.shields.io/badge/Android-green?style=flat-square)
+![AI](https://img.shields.io/badge/AI-red?style=flat-square)
+
+* 🤖 AI-powered personalized study schedules
+* 📱 Android application for students
+* 📝 Task management and CRUD operations
+* ⚡ Improved study planning efficiency
+* 🎯 Intelligent schedule generation
+
+</td>
+
+<td width="50%">
 
 ### 📈 TradeMentor
 
-- Real-time stock monitoring system
-- Portfolio management
-- AI-assisted analytics
-- Trading alerts and dashboards
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![AI](https://img.shields.io/badge/AI-red?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-grey?style=flat-square)
+
+* 📊 Real-time stock monitoring platform
+* 💼 Portfolio management system
+* 🔔 Rule-based trading alerts
+* 📈 Interactive analytics dashboard
+* 🤖 AI-assisted trading insights
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
 ## 💼 Internship Experience
 
-### OneYes Infotech
+### 🏢 Web Development Intern — OneYes Infotech
 
-**Web Development Intern**
+* 🌐 Engineered and cleaned datasets of 1000+ records
+* 📊 Reduced preprocessing time by 35%
+* 🤖 Improved model accuracy by ~20%
+* 🚀 Accelerated model training cycles
+* 🤝 Collaborated in Agile sprint environments
+* ✅ Delivered project milestones on schedule
 
-- Dataset preprocessing and feature engineering
-- Improved model accuracy by 80%
-- Agile-based project development
+### 🧠 Artificial Intelligence Intern — InternPro
 
-### InternPro
-
-**Artificial Intelligence Intern**
-
-- Built AI dashboard components
-- Model optimization and tuning
-- Performance improvement and debugging
+* 🤖 Developed and optimized AI/ML models
+* 📈 Increased model accuracy by ~20%
+* 📊 Built interactive dashboard components
+* 🔍 Debugged and fine-tuned machine learning models
+* ⚡ Improved prediction quality and reliability
+* 🚀 Worked on real-world AI solutions
 
 ---
 
