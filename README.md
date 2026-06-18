@@ -48,11 +48,6 @@ class Sangeetha:
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
 ### 📚 AI Study Planner App
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
@@ -65,27 +60,13 @@ class Sangeetha:
 * ⚡ Improved study planning efficiency
 * 🎯 Intelligent schedule generation
 
-</td>
-
-<td width="50%">
-
 ### 📈 TradeMentor
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-![AI](https://img.shields.io/badge/AI-red?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-grey?style=flat-square)
 
 * 📊 Real-time stock monitoring platform
 * 💼 Portfolio management system
 * 🔔 Rule-based trading alerts
 * 📈 Interactive analytics dashboard
 * 🤖 AI-assisted trading insights
-
-</td>
-
-</tr>
-</table>
-
 
 ---
 
